@@ -1,21 +1,24 @@
-🌐 Rishika Verma's Portfolio Website
+## 🌐 Rishika Verma's Portfolio Website
 A personal web portfolio designed and developed by Rishika Verma to showcase academic projects, skills, achievements, and contact information. This modern, responsive portfolio highlights work in web development, AI/ML, and software engineering.
 
-👩‍💻 Author: Rishika Verma
-🔗 Live Portfolio:
-👉 Visit My Portfolio
+## 👩‍💻 Author: Rishika Verma
+## 🔗 Live Portfolio:
+## 👉 Visit My Portfolio
 
-🧭 Project Structure
+## 🧭 Project Structure
 The website consists of three sections including:
 
-👋 About Section: Brief introduction with social media links.
+## 👋 About Section: 
+Brief introduction with social media links.
 
-📂 Project Section: Highlights key academic and personal projects like Inventory Management System, Fintrack (Expense Tracker), and CPU Scheduling Simulator.
+## 📂 Project Section:
+Highlights key academic and personal projects like Inventory Management System, Fintrack (Expense Tracker), and CPU Scheduling Simulator.
 
-📜 Skills & Experience: Displays core technical skills and past involvement in technical events or NGOs.
+## 📜 Skills & Experience:
+Displays core technical skills and past involvement in technical events or NGOs.
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML5 – Page structure
 
 CSS3 – Styling and animations
@@ -56,14 +59,12 @@ Some of the images are attached :
 
 Access your site via the GitHub Pages link.
 
-💼 Highlighted Projects
-Inventory Management System – Built with DBMS and MySQL for stock handling.
+## 💼 Highlighted Projects
+1. Inventory Management System – Built with DBMS and MySQL for stock handling.
+2. Fintrack – Personal Expense Tracker – Manage and visualize monthly expenses.
+3. CPU Scheduling Simulator – Simulate scheduling algorithms using JS and tables.
 
-Fintrack – Personal Expense Tracker – Manage and visualize monthly expenses.
-
-CPU Scheduling Simulator – Simulate scheduling algorithms using JS and tables.
-
-📧 Connect With Me
+## 📧 Connect With Me
 GitHub: Rishikaa07
 
 Email: vermarishika709@gmail.com
