@@ -35,6 +35,17 @@ Some of the images are attached :
 
 
 
+2. About Page -
+   ![Screenshot (86)](https://github.com/user-attachments/assets/67fe4bce-0eb9-40b9-8ee7-149fda5e33b9)
+
+
+3. Experience Page -
+   ![Screenshot (87)](https://github.com/user-attachments/assets/3bdb91f0-20e6-4baa-bb78-05ac9e0b7e50)
+
+4. Project Page -
+   ![Screenshot (88)](https://github.com/user-attachments/assets/9c5bed88-65da-45ae-942b-a6938071a35f)
+
+
 
 
 
