@@ -6,17 +6,14 @@ A personal web portfolio designed and developed by Rishika Verma to showcase aca
 👉 Visit My Portfolio
 
 🧭 Project Structure
-The website consists of multiple sections including:
+The website consists of three sections including:
 
-👋 Hero Section: Brief introduction with social media links.
+👋 About Section: Brief introduction with social media links.
 
-📂 Projects Section: Highlights key academic and personal projects like Inventory Management System, Fintrack (Expense Tracker), and CPU Scheduling Simulator.
+📂 Project Section: Highlights key academic and personal projects like Inventory Management System, Fintrack (Expense Tracker), and CPU Scheduling Simulator.
 
 📜 Skills & Experience: Displays core technical skills and past involvement in technical events or NGOs.
 
-🎓 Education: Current academic background.
-
-📧 Contact Section: Easily get in touch via email or social handles.
 
 🛠️ Tech Stack
 HTML5 – Page structure
@@ -27,25 +24,24 @@ JavaScript (Optional) – For interactivity (future integration)
 
 Git & GitHub – Version control and hosting
 
-📸 Add Your Own Images
-To use your own project images:
+Some of the images are attached :
+1. Front Page -
 
-Replace image files in the images/ folder.
 
-Ensure image paths are correctly mapped in the HTML:
 
-html
-Copy
-Edit
-<img src="images/inventory.png" alt="Inventory Management System">
-🚀 Hosting & Deployment
-Hosted via GitHub Pages:
 
-Push your project to a GitHub repo.
 
-Navigate to Settings > Pages.
+![Screenshot (85)](https://github.com/user-attachments/assets/ba3be933-affd-4288-9715-e3914860c5d0)
 
-Set source branch to main and folder to /root.
+
+
+
+
+
+
+
+
+   
 
 Access your site via the GitHub Pages link.
 
