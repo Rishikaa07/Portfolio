@@ -5,7 +5,7 @@ A personal web portfolio designed and developed by Rishika Verma to showcase aca
 ## 🔗 Live Portfolio:
 ## 👉 Visit My Portfolio
 
-## 🧭 Project Structure
+## 🧭 Project Structure  
 The website consists of three sections including:
 
 ## 👋 About Section: 
