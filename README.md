@@ -9,7 +9,7 @@ A personal web portfolio designed and developed by Rishika Verma to showcase aca
 The website consists of three sections including:
 
 ## 👋 About Section: 
-Brief introduction with social media links.
+Brief introduction with social media links.        
 
 ## 📂 Project Section:
 Highlights key academic and personal projects like Inventory Management System, Fintrack (Expense Tracker), and CPU Scheduling Simulator.
