@@ -1,5 +1,5 @@
 ## 🌐 Rishika Verma's Portfolio Website
-A personal web portfolio designed and developed by Rishika Verma to showcase academic projects, skills, achievements, and contact information. This modern, responsive portfolio highlights work in web development, AI/ML, and software engineering.
+A personal web portfolio designed and developed by Rishika Verma to showcase academic projects, skills, achievements, and contact information. This modern, responsive portfolio highlights work in web development, AI/ML, and software engineering. 
 
 ## 👩‍💻 Author: Rishika Verma
 ## 🔗 Live Portfolio:
